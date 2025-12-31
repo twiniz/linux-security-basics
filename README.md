@@ -48,4 +48,4 @@ I am learning by:
 - Taking notes on what each command does
 - Connecting Linux concepts to real-world security scenarios
 
-This repository will continue to improve as I learn more.
+This repository will continue to improve as I learn more. 
